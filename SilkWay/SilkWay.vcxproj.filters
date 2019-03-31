@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="hde">
+      <UniqueIdentifier>{bf9a0680-03bf-4b5d-ab62-762278f0718f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hook">
+      <UniqueIdentifier>{9fb6adcc-ac44-481b-9c2c-395ffdbe3fdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hook\Header Files">
+      <UniqueIdentifier>{09d485b5-4fc9-4264-a138-e4fbc75d9aeb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hook\Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Data">
+      <UniqueIdentifier>{d9cd7182-cd1a-4265-a80f-c5eb741298c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\Header Files">
+      <UniqueIdentifier>{029cce01-68d8-4002-84d4-6d3fa6b3459d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\Source Files">
+      <UniqueIdentifier>{bcb3a879-8200-4b99-816b-43350d95595a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scanner">
+      <UniqueIdentifier>{c7396f9e-34c3-4f06-b4b1-4f509542fe7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scanner\Header Files">
+      <UniqueIdentifier>{a2d1f8bd-2292-4c26-92ab-735bcc41afa8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scanner\Source Files">
+      <UniqueIdentifier>{f8eea195-23e8-403a-b5e2-c6c97cf647f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logger">
+      <UniqueIdentifier>{2dbbcf52-0a77-4233-a488-7414d54819f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logger\Header Files">
+      <UniqueIdentifier>{484cd411-04d4-49a4-9e36-e6ceeba41316}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logger\Source Files">
+      <UniqueIdentifier>{329ca5ad-ec03-42f1-acfd-856e887f0f31}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="hde\hde64.h">
+      <Filter>hde</Filter>
+    </ClInclude>
+    <ClInclude Include="hde\pstdint.h">
+      <Filter>hde</Filter>
+    </ClInclude>
+    <ClInclude Include="hde\table64.h">
+      <Filter>hde</Filter>
+    </ClInclude>
+    <ClInclude Include="Hook\Header Files\DeferredCommand.h">
+      <Filter>Hook\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hook\Header Files\HardwareBPHook.h">
+      <Filter>Hook\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hook\Header Files\Hook.h">
+      <Filter>Hook\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hook\Header Files\OpcodeHook.h">
+      <Filter>Hook\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Data\Header Files\RBTree.h">
+      <Filter>Data\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Data\Header Files\Vector.h">
+      <Filter>Data\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Data\Header Files\Queue.h">
+      <Filter>Data\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Scanner\Header Files\MemoryScan.h">
+      <Filter>Scanner\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Logger\Header Files\MemoryLogger.h">
+      <Filter>Logger\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hde\hde64.c">
+      <Filter>hde</Filter>
+    </ClCompile>
+    <ClCompile Include="Hook\Source Files\DeferredCommand.cpp">
+      <Filter>Hook\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hook\Source Files\HardwareBPHook.cpp">
+      <Filter>Hook\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hook\Source Files\Hook.cpp">
+      <Filter>Hook\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hook\Source Files\OpcodeHook.cpp">
+      <Filter>Hook\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\Source Files\Queue.cpp">
+      <Filter>Data\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\Source Files\RBTree.cpp">
+      <Filter>Data\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\Source Files\Vector.cpp">
+      <Filter>Data\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Scanner\Source Files\MemoryScan.cpp">
+      <Filter>Scanner\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Logger\Source Files\MemoryLogger.cpp">
+      <Filter>Logger\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

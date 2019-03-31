@@ -1,0 +1,195 @@
+﻿  entry.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\logger\header files\memorylogger.h(9): warning C4100: '_path': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(70): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(156): warning C4099: 'IContext': type name first seen using 'struct' now seen using 'class'
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(156): note: see declaration of 'IContext'
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\command.h(28): warning C4100: '_model': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(244): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(244): warning C4189: 'res': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(241): warning C4189: 'r': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(341): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(342): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(343): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(344): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(345): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(348): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(350): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(404): warning C4458: declaration of 'device' hides class member
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(200): note: see declaration of 'IView<S>::device'
+          with
+          [
+              S=IViewCollectionSchema
+          ]
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(483): warning C4458: declaration of 'device' hides class member
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(200): note: see declaration of 'IView<ICanvasSchema>::device'
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\uistate.h(147): warning C4100: 'args': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\uistate.h(157): warning C4189: 'stamp': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\controller.h(94): warning C4100: 'args': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\controller.h(98): warning C4100: 'args': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hook\header files\deferredcommand.h(27): warning C4244: 'argument': conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hook\header files\deferredcommand.h(29): warning C4189: 'res': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\scanner\header files\memoryscan.h(6): warning C4305: 'initializing': truncation from 'int' to 'char'
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\scanner\header files\memoryscan.h(6): warning C4309: 'initializing': truncation of constant value
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\entry.cpp(47): warning C4100: 'lpvReserved': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\entry.cpp(72): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\entry.cpp(73): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\entry.cpp(76): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\entry.cpp(77): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\entry.cpp(80): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\entry.cpp(81): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\entry.cpp(84): warning C4100: 'lpParam': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\entry.cpp(165): warning C4189: 'res4': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\entry.cpp(171): warning C4189: 'res5': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\entry.cpp(161): warning C4189: 'res1': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\entry.cpp(163): warning C4189: 'res2': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\entry.cpp(173): warning C4189: 'res7': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\entry.cpp(164): warning C4189: 'res3': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\entry.cpp(174): warning C4189: 'res6': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(197): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(191): note: while compiling class template member function 'bool IView<IButtonSchema>::CheckMouseOver(void)'
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(297): note: see reference to function template instantiation 'bool IView<IButtonSchema>::CheckMouseOver(void)' being compiled
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(259): note: see reference to class template instantiation 'IView<IButtonSchema>' being compiled
+  Chrono.cpp
+  Command.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(70): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\logger\header files\memorylogger.h(9): warning C4100: '_path': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\command.h(28): warning C4100: '_model': unreferenced formal parameter
+  Controller.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\logger\header files\memorylogger.h(9): warning C4100: '_path': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(70): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\command.h(28): warning C4100: '_model': unreferenced formal parameter
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\objidlbase.h(394): warning C4099: 'IContext': type name first seen using 'class' now seen using 'struct'
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(156): note: see declaration of 'IContext'
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(244): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(244): warning C4189: 'res': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(241): warning C4189: 'r': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(341): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(342): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(343): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(344): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(345): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(348): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(350): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(404): warning C4458: declaration of 'device' hides class member
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(200): note: see declaration of 'IView<S>::device'
+          with
+          [
+              S=IViewCollectionSchema
+          ]
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(483): warning C4458: declaration of 'device' hides class member
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(200): note: see declaration of 'IView<ICanvasSchema>::device'
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\uistate.h(147): warning C4100: 'args': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\uistate.h(157): warning C4189: 'stamp': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\controller.h(94): warning C4100: 'args': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\controller.h(98): warning C4100: 'args': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(197): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(191): note: while compiling class template member function 'bool IView<IButtonSchema>::CheckMouseOver(void)'
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(297): note: see reference to function template instantiation 'bool IView<IButtonSchema>::CheckMouseOver(void)' being compiled
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(259): note: see reference to class template instantiation 'IView<IButtonSchema>' being compiled
+  Core.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(70): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Event.cpp
+  Factory.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(70): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Model.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(70): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\logger\header files\memorylogger.h(9): warning C4100: '_path': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(73): warning C4100: 'context': unreferenced formal parameter
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(73): note: while compiling class template member function 'ISilkWayObject *ConcreteImplementator<StateModel>::Build(const char *,const char *,IContext *)'
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\model.cpp(88): note: see reference to class template instantiation 'ConcreteImplementator<StateModel>' being compiled
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(73): warning C4100: 'name': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(73): warning C4100: 'type': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(65): warning C4100: 'schema': unreferenced formal parameter
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(65): note: while compiling class template member function 'ISilkWayObject *SchemaImplementator<GameSchema>::Build(IIdentity *,ISchema *)'
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\model.cpp(55): note: see reference to class template instantiation 'SchemaImplementator<GameSchema>' being compiled
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(65): warning C4100: 'id': unreferenced formal parameter
+  Schema.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(70): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  UIState.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(70): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\logger\header files\memorylogger.h(9): warning C4100: '_path': unreferenced formal parameter
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\objidlbase.h(394): warning C4099: 'IContext': type name first seen using 'class' now seen using 'struct'
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(156): note: see declaration of 'IContext'
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(244): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(244): warning C4189: 'res': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(241): warning C4189: 'r': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(341): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(342): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(343): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(344): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(345): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(348): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(350): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(404): warning C4458: declaration of 'device' hides class member
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(200): note: see declaration of 'IView<S>::device'
+          with
+          [
+              S=IViewCollectionSchema
+          ]
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(483): warning C4458: declaration of 'device' hides class member
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(200): note: see declaration of 'IView<ICanvasSchema>::device'
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\uistate.h(147): warning C4100: 'args': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\uistate.h(157): warning C4189: 'stamp': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(73): warning C4100: 'context': unreferenced formal parameter
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(73): note: while compiling class template member function 'ISilkWayObject *ConcreteImplementator<UIStates>::Build(const char *,const char *,IContext *)'
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\uistate.cpp(36): note: see reference to class template instantiation 'ConcreteImplementator<UIStates>' being compiled
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(73): warning C4100: 'name': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(73): warning C4100: 'type': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(65): warning C4100: 'schema': unreferenced formal parameter
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(65): note: while compiling class template member function 'ISilkWayObject *SchemaImplementator<UIStatesSchema>::Build(IIdentity *,ISchema *)'
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\uistate.cpp(11): note: see reference to class template instantiation 'SchemaImplementator<UIStatesSchema>' being compiled
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(65): warning C4100: 'id': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(197): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(191): note: while compiling class template member function 'bool IView<IButtonSchema>::CheckMouseOver(void)'
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(297): note: see reference to function template instantiation 'bool IView<IButtonSchema>::CheckMouseOver(void)' being compiled
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(259): note: see reference to class template instantiation 'IView<IButtonSchema>' being compiled
+  View.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(70): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\logger\header files\memorylogger.h(9): warning C4100: '_path': unreferenced formal parameter
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\objidlbase.h(394): warning C4099: 'IContext': type name first seen using 'class' now seen using 'struct'
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(156): note: see declaration of 'IContext'
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(244): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(244): warning C4189: 'res': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(241): warning C4189: 'r': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(341): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(342): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(343): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(344): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(345): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(348): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(350): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(404): warning C4458: declaration of 'device' hides class member
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(200): note: see declaration of 'IView<S>::device'
+          with
+          [
+              S=IViewCollectionSchema
+          ]
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(483): warning C4458: declaration of 'device' hides class member
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(200): note: see declaration of 'IView<ICanvasSchema>::device'
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(73): warning C4100: 'context': unreferenced formal parameter
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(73): note: while compiling class template member function 'ISilkWayObject *ConcreteImplementator<ElementCollection>::Build(const char *,const char *,IContext *)'
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.cpp(28): note: see reference to class template instantiation 'ConcreteImplementator<ElementCollection>' being compiled
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(73): warning C4100: 'name': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(73): warning C4100: 'type': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(65): warning C4100: 'schema': unreferenced formal parameter
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(65): note: while compiling class template member function 'ISilkWayObject *SchemaImplementator<ElementCollectionSchema>::Build(IIdentity *,ISchema *)'
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.cpp(8): note: see reference to class template instantiation 'SchemaImplementator<ElementCollectionSchema>' being compiled
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\factory.h(65): warning C4100: 'id': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(197): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(191): note: while compiling class template member function 'bool IView<IButtonSchema>::CheckMouseOver(void)'
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(297): note: see reference to function template instantiation 'bool IView<IButtonSchema>::CheckMouseOver(void)' being compiled
+  c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\view.h(259): note: see reference to class template instantiation 'IView<IButtonSchema>' being compiled
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library C:\Users\CorvOrk\Documents\Screens\SilkMemoryHack\x64\Release\dx9Dll.lib and object C:\Users\CorvOrk\Documents\Screens\SilkMemoryHack\x64\Release\dx9Dll.exp
+  Generating code
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hde\hde64.c(65): warning C4706: assignment within conditional expression
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hde\hde64.c(63): warning C4701: potentially uninitialized local variable 'c' used
+  All 1114 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  dx9Dll.vcxproj -> C:\Users\CorvOrk\Documents\Screens\SilkMemoryHack\x64\Release\dx9Dll.dll

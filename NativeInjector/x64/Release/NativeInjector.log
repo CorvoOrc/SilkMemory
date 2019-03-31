@@ -1,0 +1,6 @@
+﻿  NativeInjector.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\nativeinjector\nativeinjector.cpp(42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  All 113 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  NativeInjector.vcxproj -> C:\Users\CorvOrk\Documents\Screens\SilkMemoryHack\x64\Release\NativeInjector.exe

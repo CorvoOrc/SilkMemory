@@ -1,0 +1,21 @@
+﻿  entry.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\controller.h(3): fatal error C1083: Cannot open include file: 'MemoryLogger.h': No such file or directory
+  Chrono.cpp
+  Command.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(5): fatal error C1083: Cannot open include file: 'Vector.h': No such file or directory
+  Controller.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\controller.h(3): fatal error C1083: Cannot open include file: 'MemoryLogger.h': No such file or directory
+  Core.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(5): fatal error C1083: Cannot open include file: 'Vector.h': No such file or directory
+  Event.cpp
+  Factory.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(5): fatal error C1083: Cannot open include file: 'Vector.h': No such file or directory
+  Model.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(5): fatal error C1083: Cannot open include file: 'Vector.h': No such file or directory
+  Schema.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(5): fatal error C1083: Cannot open include file: 'Vector.h': No such file or directory
+  UIState.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(5): fatal error C1083: Cannot open include file: 'Vector.h': No such file or directory
+  View.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\dx9dll\silkway\core.h(5): fatal error C1083: Cannot open include file: 'Vector.h': No such file or directory
+  Generating Code...

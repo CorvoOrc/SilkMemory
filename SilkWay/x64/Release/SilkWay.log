@@ -1,0 +1,28 @@
+﻿  Queue.cpp
+  RBTree.cpp
+  Vector.cpp
+  DeferredCommand.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hook\header files\deferredcommand.h(27): warning C4244: 'argument': conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hook\header files\deferredcommand.h(29): warning C4189: 'res': local variable is initialized but not referenced
+  HardwareBPHook.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hook\source files\hardwarebphook.cpp(66): warning C4100: 'destination': unreferenced formal parameter
+  Hook.cpp
+  OpcodeHook.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\scanner\header files\memoryscan.h(6): warning C4305: 'initializing': truncation from 'int' to 'char'
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\scanner\header files\memoryscan.h(6): warning C4309: 'initializing': truncation of constant value
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hook\source files\opcodehook.cpp(10): warning C4100: 'pVecExcHandler': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hook\source files\opcodehook.cpp(90): warning C4189: 'test': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hook\source files\opcodehook.cpp(96): warning C4189: 'freeMemory': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hook\source files\opcodehook.cpp(122): warning C4100: 'size': unreferenced formal parameter
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hook\source files\opcodehook.cpp(128): warning C4189: 'test': local variable is initialized but not referenced
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hook\source files\opcodehook.cpp(138): warning C4100: 'size': unreferenced formal parameter
+  MemoryLogger.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\logger\header files\memorylogger.h(9): warning C4100: '_path': unreferenced formal parameter
+  MemoryScan.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\scanner\header files\memoryscan.h(6): warning C4305: 'initializing': truncation from 'int' to 'char'
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\scanner\header files\memoryscan.h(6): warning C4309: 'initializing': truncation of constant value
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\scanner\source files\memoryscan.cpp(82): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\scanner\source files\memoryscan.cpp(121): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\corvork\documents\screens\silkmemoryhack\silkway\scanner\source files\memoryscan.cpp(121): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  hde64.c
+  SilkWay.vcxproj -> C:\Users\CorvOrk\Documents\Screens\SilkMemoryHack\x64\Release\SilkWay.lib

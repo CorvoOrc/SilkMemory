@@ -1,0 +1,19 @@
+﻿  Queue.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\data\source files\queue.cpp(1): fatal error C1083: Cannot open include file: 'Queue.h': No such file or directory
+  RBTree.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\data\source files\rbtree.cpp(1): fatal error C1083: Cannot open include file: 'RBTree.h': No such file or directory
+  Vector.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\data\source files\vector.cpp(1): fatal error C1083: Cannot open include file: 'Vector.h': No such file or directory
+  DeferredCommand.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hook\source files\deferredcommand.cpp(1): fatal error C1083: Cannot open include file: 'DeferredCommand.h': No such file or directory
+  HardwareBPHook.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hook\source files\hardwarebphook.cpp(1): fatal error C1083: Cannot open include file: 'HardwareBPHook.h': No such file or directory
+  Hook.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hook\source files\hook.cpp(1): fatal error C1083: Cannot open include file: 'Hook.h': No such file or directory
+  OpcodeHook.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\hook\source files\opcodehook.cpp(1): fatal error C1083: Cannot open include file: 'OpcodeHook.h': No such file or directory
+  MemoryLogger.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\logger\source files\memorylogger.cpp(1): fatal error C1083: Cannot open include file: 'MemoryLogger.h': No such file or directory
+  MemoryScan.cpp
+c:\users\corvork\documents\screens\silkmemoryhack\silkway\scanner\source files\memoryscan.cpp(1): fatal error C1083: Cannot open include file: 'MemoryScan.h': No such file or directory
+  Generating Code...

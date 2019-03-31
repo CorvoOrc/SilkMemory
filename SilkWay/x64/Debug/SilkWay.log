@@ -1,0 +1,17 @@
+﻿  Queue.cpp
+  RBTree.cpp
+  Vector.cpp
+  DeferredCommand.cpp
+c:\users\corvork\documents\silkmemoryhack\silkway\hook\header files\deferredcommand.h(27): warning C4244: 'argument': conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+  HardwareBPHook.cpp
+  Hook.cpp
+  OpcodeHook.cpp
+  MemoryLogger.cpp
+  MemoryScan.cpp
+c:\users\corvork\documents\silkmemoryhack\silkway\scanner\source files\memoryscan.cpp(20): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\corvork\documents\silkmemoryhack\silkway\scanner\source files\memoryscan.cpp(20): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Generating Code...
+  hde64.c
+MemoryLogger.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+DeferredCommand.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  SilkWay.vcxproj -> C:\Users\CorvOrk\Documents\SilkMemoryHack\x64\Debug\SilkWay.lib

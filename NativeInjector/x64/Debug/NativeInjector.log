@@ -1,0 +1,3 @@
+﻿  NativeInjector.cpp
+c:\users\corvork\documents\silkmemoryhack\nativeinjector\nativeinjector.cpp(229): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  NativeInjector.vcxproj -> C:\Users\CorvOrk\Documents\SilkMemoryHack\x64\Debug\NativeInjector.exe
